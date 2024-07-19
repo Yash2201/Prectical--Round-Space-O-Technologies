@@ -5,10 +5,7 @@
 Follow these steps to set up the project on your local system:
 
 1. Clone the Repository
-
 Clone the `Prectical-Round-Space-O-Technologies` project to your local system using the following command:
-
-```bash
 git clone <repository-url>
 
 2. Set Up Environment Variables
@@ -31,4 +28,3 @@ After the php artisan install command has executed successfully, run the followi
 php artisan serve
 
 This command will give you a link similar to http://127.0.0.1:8000/. Open this link in your browser to check the output.
-
